@@ -1,5 +1,6 @@
 """
 The library to provide common functions of version related, like to compare two versions.
+Written in Python 3.6
 """
 
 __version__ = 0.1
